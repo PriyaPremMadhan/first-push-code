@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="23081" started-at="2020-01-23T20:04:09Z" finished-at="2020-01-23T20:04:32Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="23081" started-at="2020-01-23T20:04:09Z" finished-at="2020-01-23T20:04:32Z">
+      <class name="adac.a1">
+        <test-method status="PASS" signature="launchdriver()[pri:0, instance:adac.a1@1936f0f5]" name="launchdriver" is-config="true" duration-ms="14187" started-at="2020-01-23T12:04:09Z" finished-at="2020-01-23T12:04:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchdriver -->
+        <test-method status="PASS" signature="Test1(java.lang.String, java.lang.String)[pri:0, instance:adac.a1@1936f0f5]" name="Test1" duration-ms="2449" started-at="2020-01-23T12:04:23Z" finished-at="2020-01-23T12:04:26Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Jananithiru]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Jana2thiru5]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test1 -->
+        <test-method status="PASS" signature="sam()[pri:0, instance:adac.a1@1936f0f5]" name="sam" is-config="true" duration-ms="0" started-at="2020-01-23T12:04:23Z" finished-at="2020-01-23T12:04:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sam -->
+        <test-method status="PASS" signature="sam1()[pri:0, instance:adac.a1@1936f0f5]" name="sam1" is-config="true" duration-ms="0" started-at="2020-01-23T12:04:26Z" finished-at="2020-01-23T12:04:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sam1 -->
+        <test-method status="PASS" signature="sam()[pri:0, instance:adac.a1@1936f0f5]" name="sam" is-config="true" duration-ms="1" started-at="2020-01-23T12:04:26Z" finished-at="2020-01-23T12:04:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sam -->
+        <test-method status="PASS" signature="Test2()[pri:0, instance:adac.a1@1936f0f5]" name="Test2" duration-ms="4754" started-at="2020-01-23T12:04:26Z" finished-at="2020-01-23T12:04:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test2 -->
+        <test-method status="PASS" signature="sam1()[pri:0, instance:adac.a1@1936f0f5]" name="sam1" is-config="true" duration-ms="0" started-at="2020-01-23T12:04:30Z" finished-at="2020-01-23T12:04:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sam1 -->
+        <test-method status="PASS" signature="verifyRes()[pri:0, instance:adac.a1@1936f0f5]" name="verifyRes" is-config="true" duration-ms="1620" started-at="2020-01-23T12:04:30Z" finished-at="2020-01-23T12:04:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyRes -->
+      </class> <!-- adac.a1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
